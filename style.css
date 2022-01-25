@@ -26,9 +26,6 @@
     justify-content: center;
     gap:20px;
 }
-.left{
-    
-}
 .image1{
  width :500px;
  height:420px;
@@ -46,15 +43,19 @@
 }
 #one{
 width:90px;
+border-radius: 2px;
 }
 #two{
     width:90px;
+    border-radius: 2px;
 }
 #three{
     width:90px;
+    border-radius: 2px;
 }
 #four{
     width:90px;
+    border-radius: 2px;
 }
 #cart1{
     width:30px;
@@ -74,7 +75,7 @@ width:90px;
 }
 #low{
     font-size: 16px;
-    font-family:'Kumbh Sans', sans-serif;
+    font-family:sans-serif;
 }
 #logo{
     height:19px;
@@ -119,8 +120,8 @@ width:10px;
  
 }
 .button{
-    width:250px;
-    height:30PX;
+    width:200px;
+    height:35PX;
     display: flex;
     flex-direction: row; 
     border-radius: 10px;
